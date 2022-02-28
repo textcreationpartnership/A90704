@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the proceedings of the Scots and English forces in the north of Ireland: sent in a letter to Mr. Tobias Siedgwicke, living in London; relating these particulars: viz. 1. Their meeting at Drumboe in the county of Antrem. 2. The manner of their march towards the Nury, with the taking of a fort neere Kilwarlin Woods. 3. The taking of the towne and castle of the Nury, and the releasing of divers prisoners of note. 4. The great spoile they tooke in those parts, with great  terrour to the rebels, and their flight from those parts. 5. Divers skirmishes with the rebels in Mr. Cartons woods. 6. The desires of the earle of Antrem to be received into the English Army. VVith divers other things worthy your observation.</title>
+            <author>Pike, Roger, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90704</idno>
+            <idno type="STC">Wing P2224</idno>
+            <idno type="STC">Thomason E149_33</idno>
+            <idno type="STC">ESTC R152</idno>
+            <idno type="EEBO-CITATION">99859818</idno>
+            <idno type="PROQUEST">99859818</idno>
+            <idno type="VID">156740</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90704)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156740)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E149[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the proceedings of the Scots and English forces in the north of Ireland: sent in a letter to Mr. Tobias Siedgwicke, living in London; relating these particulars: viz. 1. Their meeting at Drumboe in the county of Antrem. 2. The manner of their march towards the Nury, with the taking of a fort neere Kilwarlin Woods. 3. The taking of the towne and castle of the Nury, and the releasing of divers prisoners of note. 4. The great spoile they tooke in those parts, with great  terrour to the rebels, and their flight from those parts. 5. Divers skirmishes with the rebels in Mr. Cartons woods. 6. The desires of the earle of Antrem to be received into the English Army. VVith divers other things worthy your observation.</title>
+                  <author>Pike, Roger, 17th cent.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coules and T. Bates,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Roger Pike.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>At head of title: June 8th. 1642.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156740:1" rendition="simple:additions"/>
+            <p>
+               <hi>A TRUE RELATION OF THE PROCEED<g ref="char:EOLhyphen"/>ings of the Scots and Engliſh Forces</hi> in the North of Ireland:</p>
+            <p>Sent in a Letter to Mr. <hi>Tobias Siedgwicke,</hi> living in London; Relating theſe particulars: <hi>viz.</hi>
+               <list>
+                  <item>1. Their meeting at <hi>Drumboe</hi> in the County of <hi>Antrem.</hi>
+                  </item>
+                  <item>2. The manner of their March towards the <hi>Nury,</hi> with the ta<g ref="char:EOLhyphen"/>king of a Fort neere <hi>Kilwarlin</hi> Woods.</item>
+                  <item>3. The taking of the Towne and Caſtle of the <hi>Nury,</hi> and the re<g ref="char:EOLhyphen"/>leaſing of divers Priſoners of note.</item>
+                  <item>4. The great Spoile they tooke in thoſe parts, with great terrour to the Rebels, and their flight from thoſe parts.</item>
+                  <item>5. Divers Skirmiſhes with the Rebels in Mr. <hi>Cartons</hi> Woods.</item>
+                  <item>
+                     <hi>6.</hi> The deſires of the Earle of <hi>Antrem</hi> to be received into the Engliſh Army.</item>
+               </list>
+            </p>
+            <p>VVith divers other things worthy your Obſervation.</p>
+            <p>London, Printed for <hi>F. Coules,</hi> and <hi>T. Bates.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:156740:2"/>
+            <head>THE COPIE OF A LETTER Sent from a Gentleman in <hi>Ireland,</hi> to his friend, Mr. <hi>Tobias Siedgwicke,</hi> living in London, <hi>June</hi> 8. 1642.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to my promiſe I ſhall labour briefely to informe you of what hath happened in theſe Nor<g ref="char:EOLhyphen"/>therne parts of <hi>Ireland</hi> ſince my comming over; wherein I ſhall indeavour, not willingly to vary from the truth in the leaſt circumſtance, that you may beleeve what I write without doubting, and may report it without bluſhing.</p>
+            <p>On Thurſday the 28. of <hi>Aprill</hi> 1600. of the Scottiſh Army, 500. of the Lord Viſcount <hi>Conwayes</hi> Regiment, 500. of Colonell <hi>Chi<g ref="char:EOLhyphen"/>cheſters,</hi> 400. of the Lord of the <hi>Ardees</hi> Forces, and 400. of the Lord <hi>Clandeboyes,</hi> 3. Troopes of Armed Horſe, the Lord <hi>Conwayes,</hi> Co<g ref="char:EOLhyphen"/>lonell <hi>Chicheſters,</hi> and the Lord <hi>Cromwells,</hi> and part of the Lord <hi>Grandiſons,</hi> t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gether with ſome 4 or 5. Troopes of light Horſe, all theſe Forces met together, and encamped at a place called <hi>Drum-Boe,</hi> neere <hi>Belfaſt,</hi> in the County of <hi>Antrem;</hi> Sir <hi>John Clatworty</hi> promiſed to come with 400. men, but he could not get ſo many men to m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke his Regiment compleate, all theſe Troops made ſome 300. Horſe.</p>
+            <p>On Friday the 29. of Aprill, this Army marched onwards all to<g ref="char:EOLhyphen"/>gether towards the <hi>Nury,</hi> and when they came a little beyond <hi>Liſ<g ref="char:EOLhyphen"/>n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>garney,</hi> they diſcryed a partie of the Rebels Horſe, which ſhewed them at the edge of the Woods of <hi>Kilwarlin,</hi> upon which our Horſe made directly towards them over the fields, the foot marched along the high way; when our Horſe came within twice Musket ſhot of
+<pb n="2" facs="tcp:156740:2"/>them they made a ſtand, in the meane time the foote marching along the high way, perceived a party of the Rebells in a Fort which they had made at the entrance of <hi>Kilwarlin</hi> woods, which it ſeemes they bad made, thinking thereby to blocke up the way; this Fort plaid upon our Foote with their Muskets. Colonell <hi>Chicheſters</hi> Regi<g ref="char:EOLhyphen"/>ment being then in the Front he drew out certaine companies, and made them to give fire by rankes upon the Fort, they remained this Skirmiſhing untill our Horſe with much difficultie in regard of the wayes which were blockt up with Trees came into the woods ano<g ref="char:EOLhyphen"/>ther way, and got betwixt the Fort and the wood, the Rebels ſee<g ref="char:EOLhyphen"/>ing the Horſe come behind them fled, our horſe being divided into ſeverall parties went ſeverall wayes purſuing of them, one party of our Horſe ſome 40. met with ſome 400. of them, and fought with them, put them to flight, and killed ſome 30. of them, the reſt of our Horſe chaſed them in the woods as farre as they were able to follow them for Thickets and Bogs, ſome of them would atempt to give fire at the Horſe ſtanding behind Trees and Buſhes, but as ſoone as they but offered to make towards them, they durſt not ſtand, but runne away after the Horſe had chaſed them a pretty while, this way a company of the Scottiſh Souldiers came into them, Lieutenant <hi>Dullen</hi> who is Lieutenant to Colonell <hi>Chicheſters</hi> Troopes ſpake to thoſe Musketeres to follow the Rogues which were running in the woods where the troopes could not follow them, the moſt of them would not goe, I will not ſay durſt not, they pretended they wan<g ref="char:EOLhyphen"/>ted powder; But afterwards before our faces they ſhot at leaſt 40. ſhots at Randum in the woods; at this Shirmiſh there were in all kild and taken priſoners ſome 80. of the Rebells, wee loſt but one man, who was one of Colonell <hi>Hills</hi> Light Horſe men, and one of the Lord <hi>Cromwells</hi> Troopes had his Horſe kild under him, and ſome two Light Horſe men were ſlightly wounded; this night the Army incamped in the middle of the woods of <hi>Kilwarlin,</hi> which is held to be the place of their ſtrongeſt hold, yet the Rebells had not ſo much Gallantry in them as to give us an Alarum.</p>
+            <p>The next day being Saturday the 30. of Aprill the Army marched onward in their way to the <hi>Nury,</hi> through <hi>Drommore,</hi> which is ſo conſumed with fire, and ruinated, that there was not a houſe left ſtanding except the Church. This night wee incamped at a place <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> eight miles of the <hi>Nury</hi> called <hi>Logh Brickland</hi> in the middle of this <hi>Logh</hi> there is an Land in which were ſome of the Rebels, with
+<pb n="3" facs="tcp:156740:3"/>divers Engliſh and Scots which were priſoners with them there, and a great deale of proviſion, there was a houſe upon this Iland, upon which one of our field peeces playd, and we ſhot at them with Muſ<g ref="char:EOLhyphen"/>kets; ſometimes they would ſhoot againe, but hurt none of our men; there came a Bullet through Colonell <hi>Chicheſters</hi> hare as he ſtood a<g ref="char:EOLhyphen"/>mongſt his Souldiers, but hurt him not: All that our Army could doe could not make them yeeld, for our ſhot could not come to hurt them in regard that they had digged a Cave under ground where they did remaine; ſo as that it was impoſſible to hurt them with ſhot, as to ſhoot downe the Iland, this night there was a ſtrict watch ſet round about the Iland leaſt the Rogues ſhould ſteale away by night, the next morning being Sunday the firſt of <hi>May,</hi> the Boate which belonged unto the <hi>Logh</hi> being ignorantly left a float by the Rebels by the ſide of the Iland, it became the onely meanes of their ruine, for ſix Hilanders undertooke to ſwim for the Boate to fetch it over, whilſt they were ſwimming, our Army playd ſo hard upon the Iland with Musket ſhot, that not a Rebell durſt peepe out of the Cave: Of theſe ſix Hilanders, two returned not being able to ſwimme over, two ſtriving beyond their ſtrength were drowned, and onely two got over, who ſwimming with their Swords in their hands cut the Boate looſe, and brought it over, which was manned with Muſ<g ref="char:EOLhyphen"/>keteres, which tooke the Iland, releaſt the priſoners, and cut off the Rebels.</p>
+            <p>After this was done, the Army marched on to the <hi>Nury,</hi> the Horſe rid faſt before, and when they came within ſight of the towne they purſued the Rogues flying out of the towne, and running as faſt as their nimble feet could carry them away; upon this a Troope of Light Horſe were ſent out, which were under the command of Cap<g ref="char:EOLhyphen"/>taine <hi>Winſor,</hi> and cut off about 100. of the Rogues as they fled, the reſt of the Troopes drew neare unto the towne, and making a ſtand on a little hill about a quarter of a mile from the towne, one Maſter <hi>Reading</hi> came riding out of the towne to them, who had beene pri<g ref="char:EOLhyphen"/>ſoner with them ever ſince the beginning of this Rebellion, and hee brought us word that the Rogues were all fled out of the towne ex<g ref="char:EOLhyphen"/>cept ſome of the ancient towne dwellers, and that they willingly yeelded the towne, but that the Caſtle ſtood out ſtill, in which were divers priſoners of the Engliſh, among the reſt Sir-<hi>Edward Trevers,</hi> Sir <hi>Chales Poynes</hi> and his ſonne came out to meet us who were ta<g ref="char:EOLhyphen"/>ken priſoners at the firſt ſurpiſall of the <hi>Nury.</hi> Colonell <hi>Chricheſters</hi>
+               <pb n="4" facs="tcp:156740:3"/>Troope drew nearer the towne and ſtood cloſe by the Church, within Musket ſhot of the Caſtle untill the foote came up, which was for the ſpace of two houres, when the generall Major came, they ſent away the Troopes to quarter, halfe a mile out of the towne, and ſet a ſtrickt centrey at the townes end that none ſhould come in but thoſe whom he permitted; what was gotten the Horſe got no ſhare of, al<g ref="char:EOLhyphen"/>though they beſt deſerved it, the Lord <hi>Maginneſes</hi> Lady was now in the <hi>Nury.</hi>
+            </p>
+            <p>The next d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y being Monday the Generall Major <hi>Mount Roe,</hi> and the Lord <hi>Conway,</hi> and Colonell <hi>Chicheſter</hi> reſolved to come to a parly with the Caſtle, not that they held it any difficultie to take it, but in regard of thoſe priſoners which they had within the Caſtle, leaſt if they had f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llen upon it in the ſevereſt way, the Innocent had been deſtroyed with the Guilty. This made the Rogues to ſtand upon their tearmes, and to refuſe many gratious proffers of mercy, and kept them all this day in diſpence, refuſing to yeeld, the next day being Tueſday the third of <hi>May,</hi> Generall <hi>Mount Roe</hi> ſent word unto the Captaine of the Caſtle, that notwithſtanding the priſoners he had of ours with him, if he would not yeeld, ſince there was no remedy, he would blow up the Caſtle, the Captaine of the Caſtle returned him anſwer, that if he blew him up, we would be forced to borrow ſome of his powder; this peremptory anſwer made all to be prepared for to ſet upon the Caſtle, at laſt when the Captaine of the Caſtle ſaw that they were like to goe to it in good earneſt, he yeelded upon quarter for himſelfe and ſome more. After this Ca<g ref="char:EOLhyphen"/>ſtle was ſurrendred, they found but halfe a Barrell of Powder, 60. Muskets, and of them not above a dozen fixt; they had two murthe<g ref="char:EOLhyphen"/>rers which they put out onely to make a ſhew, which were found without Chambers, and ſo foule and ruſty that none of them durſt h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve ſhot them off; ſuch little proofe is commonly in great bragges when they come to the triall, what other things of worth were found in the Caſtle were altogether concealed from the Engliſh, except ſome who had great friends.</p>
+            <p>On Munday the fift of <hi>May</hi> ten out of every Troope were ſent to <hi>Dundalke</hi> to the Engliſh Army, the next day Sir <hi>Henry Titchborne</hi> came along with them to the <hi>Nury</hi> with a guard of three Troopes of Horſe, and ſtayed ſome three houres at the <hi>Nury</hi> and returned.</p>
+            <p>The common Souldiers without direction from the Generall Ma<g ref="char:EOLhyphen"/>jor tooke ſome 18. of the <hi>Iriſh</hi> women of the towne, and ſtript them
+<pb n="5" facs="tcp:156740:4"/>naked, and threw them into the River, and drowned them, ſhooting ſome in the water; more had ſuffered ſo but that ſome of the com<g ref="char:EOLhyphen"/>mon Souldiers were made examples on and puniſhed.</p>
+            <p>On Thurſday the 6. of <hi>May,</hi> the Lord <hi>Conwayes</hi> Troope, Colo<g ref="char:EOLhyphen"/>nell <hi>Chicheſters,</hi> and the Lord <hi>Cromwels</hi> with part of the Lord <hi>Gran<g ref="char:EOLhyphen"/>diſons,</hi> went out towards <hi>Armagh,</hi> and by the way they ſaw above a thouſand of the Rebels which ſtood in a Bogge, but durſt not ſtirre out to inco unter with our Troopes nor the Troopes could not come at them for the Bogge, although they fame would have charged them, therefore they returned backe to the <hi>Nury,</hi> thinking to fall upon them the next morning, and bring ſome foot with them, but they heard the next day that they were fled, and that Sir <hi>Philem O. Neale</hi> was among them. Some of the priſoners that made an eſcape from them, reported that <hi>Armagh</hi> is burnt, and that the Rogues are fled from thence towards <hi>Chalimount.</hi>
+            </p>
+            <p>On Friday being the ſixt of <hi>May</hi> thoſe of the Rebells that were in the Caſtle which had not Quarter, and divers of the ill affected <hi>Iriſh</hi> in the towne were ſhot to death on the bridge, ſome three ſcore or more; there was a great Iron Battering peece taken in the <hi>Nury</hi> which was left on an old Turret in the towne, throwne off the Carria<g ref="char:EOLhyphen"/>ges, which I forgot to name before.</p>
+            <p>On Saturday, the ſeventh of <hi>May,</hi> they provided to March back again, leaving behinde in Garriſon at the <hi>Nury</hi> about 300. men well armed, under the command of Lieutenant Colonell <hi>Sinkcleare,</hi> pro<g ref="char:EOLhyphen"/>miſing to ſend him ſome 500. more from <hi>Carrickfergus,</hi> with all the ſpeede poſſibly could be made, being ſome of the reſt of Livete<g ref="char:EOLhyphen"/>nant Collonell <hi>Sinckcleares</hi> Regiment, which came over ſince the Army went abroad; Generall Major <hi>Mount Roe</hi> left private directi<g ref="char:EOLhyphen"/>on (as I heard) with Livetenant Collonell <hi>Sinkcleare</hi> to baniſh all the <hi>Iriſh</hi> out of the towne, as ſoone as he was gone.</p>
+            <p>The Army marched home through <hi>Maginneſes,</hi> and Mr. <hi>Cartons</hi> Country, and marched in three Diviſions, burning all the houſes and corne before them, and brought away the ſpoyle of the countrey be<g ref="char:EOLhyphen"/>fore them, and cattle in great abundance, there was much goods left behinde, and proviſion which they could neither deſtroy nor carry away, being hid under-ground in the backſide of every houſe, the deviſion that Collonell <hi>Chicheſter</hi> commanded, burnt Mr. <hi>Cartons,</hi> and <hi>Ever Maginneſes</hi> owne dwelling houſes. Sunday at night was uch ſtormy wether, that ſome thirtie of the ſouldiers and others
+<pb n="6" facs="tcp:156740:4"/>which followed the campe periſhed with meere cold; and no won<g ref="char:EOLhyphen"/>der, for it kild ſome fifteene horſes which were found dead the next morning: Colonell <hi>Chicheſters</hi> troope marching a pretty ſpace be<g ref="char:EOLhyphen"/>fore the Army, tooke divers priſoners, and killed divers of the Re<g ref="char:EOLhyphen"/>bells upon their March.</p>
+            <p>On Tueſday the 10. of May, the Army met together and in<g ref="char:EOLhyphen"/>camped in the middle of Mr. <hi>Cartons</hi> woods, when they came alto<g ref="char:EOLhyphen"/>gether, there were at leaſt 800. baggage horſes (as they call them) load on with the ſpoile of the Countrey, and I thinke I ſpeake within compaſſe if I ſay 3000. Cowes; but by the way as they came this day through the thickees of Mr. <hi>Cartons</hi> Woods, the Lord <hi>Conwayes</hi> troope, Collonell <hi>Hills,</hi> and Captaine <hi>Matthewes,</hi> and ſome other troopes of Light-horſe; the Rogues ſhot at them from behinde trees, and killed the Livetenant to the Lord <hi>Conwayes</hi> troope, Lievetenant <hi>Fiſhers</hi> Led-horſe, and him that led him, and got in betwixt the troopes and the Baggage horſes, and cut off ſome of the men that went along with theſe horſes, and had cut off more, but that Cap<g ref="char:EOLhyphen"/>taine <hi>Trevers</hi> rid backe againe with ſome of his troope, and relieved them.</p>
+            <p>On Wedneſday, the Army marched through the reſt of Mr. <hi>Car<g ref="char:EOLhyphen"/>tons</hi> woods with all the aforeſaid load on horſes and cowes, marching all together, but ſpreading the foot abroad in the woods, to burn the Cabbins which were built there, and to cleare the woods before them: They found no oppoſition this day, at night they encamped at Drumboe.</p>
+            <p>The next day when the Cowes were to be divided, many of them were ſtollen away into the Ardees, and Clandeboyes the laſt night, and the goods ſo ſneakt away by the Scots, that the <hi>Engliſh</hi> troopes got juſt nothing, and the Engliſh foote very little, which gave them too juſt a cauſe to mutany, in ſo much as I thinke it will be hard to get them out to march with the Scots againe, who will have both the credit and profit of whatſoever is done or had.</p>
+            <p>In the abſence of the Army, there were ſix ſcore Musketeres lef to Garriſon at <hi>Malone,</hi> which was ſet upon by the Iriſh, and th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moſt of it burnt; theſe valiant Scots ſet to keep the towne, when ie was ſet upon, fled, and did not ſo much as face the Rebells, ſome 800. of the Scots which lay in the Trench ſome ſixe mile of <hi>Carrick<g ref="char:EOLhyphen"/>fergus,</hi> in the abſence of the aforeſaid Army, went out to plunder, and being ſet upon by ſome horſe, and foote of the Rebells, not
+<pb n="7" facs="tcp:156740:5"/>much above their number, I will not ſay fled from them, but retrea<g ref="char:EOLhyphen"/>ted ſo faſt, as that they were forced to blow up a barrell of powder they had with them, and blew up ſome eight of their men with it, and as I heare credibly, loſt above a hundred Armes, they carry the matter very privately here, but this is truth. The Earle of Antrem is now at Glanarme, a place twelve miles off <hi>Carrickfergus,</hi> and would faine be received into this towne: what Generall <hi>Mount Roe,</hi> and the Lord <hi>Conway</hi> will doe in it, I know not; Gene<g ref="char:EOLhyphen"/>rall <hi>Laſly</hi> will be over here within this weeke, as he hath ſent word unto Generall Major <hi>Mount Roe.</hi> I have no more to write, but deſire to remaine,</p>
+            <closer>
+               <dateline>Carrick-fergus <date>this 30. of <hi>May,</hi> 1642.</date>
+               </dateline>
+               <signed>Your Humble ſervant to Command, <hi>Roger Pike.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
